@@ -2,7 +2,7 @@
        color: blue;}
 #p01 { text-align: right;
        color: blue;}
-body {background-color: lightyellow}
+body {background-color: lightblue}
 .ul1 {list-style-type: none;
     margin: 0;
     padding: 0;
@@ -16,3 +16,10 @@ body {background-color: lightyellow}
     padding: 14px 16px;
     text-decoration: none;}
 .li1 a:hover {background-color:blue;}
+img {
+
+    border-radius: 8px;
+    display: block;
+    margin: auto;
+    width: 50%;
+  padding-top: 10px;  }

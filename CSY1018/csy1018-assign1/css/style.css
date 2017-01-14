@@ -1,0 +1,53 @@
+         /*STUDENT ID:17419234 NAME:ANASTASIOS GKOUMAS*/
+#h01 {text-align: center; /* This is the headline*/
+      margin-top: -75px}
+#p01 { text-align:  right;}
+body {background-color: #ADD8E6;} /* This is the background*/
+.ul1 {list-style-type: none; /* This is for creating the navigation bar menu */
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+     background-color: #333;}
+.li1 { float: left;}
+.li1 a {display: block;
+     color: white;
+     text-align: center;
+     padding: 14px 16px;
+     text-decoration: none;}
+.li1 a:hover {background-color:blue;}
+#i1 { border: 8px solid transparent; /* This is for the main picture in the home page*/
+      display: block;
+      margin: auto;
+      width: 50%;
+      padding-top: 10px;}
+.b2 { font-style: oblique; /* This for the bio text in the bio page*/
+      font-family: "Helvetica";
+      margin-top: 20px;
+      margin-bottom: 20px;
+      margin-right: 25%;
+      margin-left: 25%;}
+#d5 { margin-top:25px; /* This for the contact/ submit form in the contact page*/
+      margin-bottom: 25px;
+      margin-right: auto;
+      margin-left: auto;}
+.i2 {width:100%; /* This for the html5 and css logos at the end of the pages */
+     margin-top:25px;
+     margin-bottom: 25px;
+     text-align:center;}
+.li3 {width:600px; /* This is for the resume lists*/
+      margin-top:35px;
+      margin-bottom: 35px;
+      margin-left: 20%;
+      margin-right: 80%;
+    /*align: 'auto';*/ }
+.li5 {width:1600px; /* This is for the resume lists*/
+     margin-top:-275px;
+     margin-bottom: 310px;
+     margin-left: 60%;
+     margin-right: 40%;
+   /*align: 'auto';*/}
+#l5 {margin-top:25px; /* This is for the main logo with a link to home page*/
+     margin-bottom:-25px;
+     margin-right:inherit;
+     margin-left: inherit;}
+hr.hr1 {	border-top: 3px double #404040;} /* This is for the horizontal rule */
